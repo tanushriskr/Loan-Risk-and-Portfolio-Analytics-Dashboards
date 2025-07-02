@@ -8,11 +8,12 @@ This repository contains two interactive Power BI reports analyzing loan portfol
 
 The project demonstrates:
 
+**Loan Portfolio Performance Dashboard**  
+Explores portfolio-level trends such as funded amounts, repayment performance, loan status breakdown, and application patterns across key segments.
+
  **Borrower Risk & Loan Profile Dashboard**  
 Identifies borrower-level risk across income bands and DTI (Debt-to-Income) bands to highlight high-risk segments and overall credit exposure.
 
-**Loan Portfolio Performance Dashboard**  
-Explores portfolio-level trends such as funded amounts, repayment performance, loan status breakdown, and application patterns across key segments.
 
 ---
 
