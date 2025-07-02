@@ -54,13 +54,13 @@ Explores portfolio-level trends such as funded amounts, repayment performance, l
 
 ## Contributors
 
-- @Shivani — Borrower Risk & Loan Profile Dashboard  
--  — Loan Portfolio Performance Dashboard  
+- @shivanir23 — Borrower Risk & Loan Profile Dashboard  
+- @tanushriskr Loan Portfolio Performance Dashboard  
 
 ---
 
 ## Contact
 
-For questions or collaboration opportunities, feel free to connect on [LinkedIn] or open an issue in this repository.
+For questions or collaboration opportunities, feel free to connect on linkedin or open an issue in this repository.
 
 ---
