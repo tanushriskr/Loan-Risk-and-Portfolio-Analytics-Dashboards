@@ -52,6 +52,8 @@ Identifies borrower-level risk across income bands and DTI (Debt-to-Income) band
 3. Interact with slicers, filters, and drill-through pages for insights
 
 ---
+## Conclusion
+This project was a collaborative effort to analyze bank loan data using Power BI, focusing on both loan portfolio performance and borrower risk profiles. It helped uncover key trends in repayment behavior, loan purpose distribution, and risk segmentation. The dashboards offer a clear view of the overall portfolio health and can support better decision-making for future lending strategies.
 
 ## Contributors
 
